@@ -2,5 +2,8 @@
   "name": "napi-go-test",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "node-gyp": "^10.1.0"
+  }
 }
