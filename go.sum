@@ -1,2 +1,10 @@
-github.com/akshayganeshen/napi-go v0.0.0-20220627001427-7ae2cc336fa2 h1:t+8fxMIy4PJim/WK4F8mWgiSkJif4HPy3pvWRxYVpNs=
-github.com/akshayganeshen/napi-go v0.0.0-20220627001427-7ae2cc336fa2/go.mod h1:dmlddNLzaiRVK8CLTxPJVICJMy1ju7o9FoABFLOtaMc=
+github.com/Automattic/napi-go v0.0.0-20240423161934-e036edc07be8 h1:MWQDGUYXO8nVjRQVx7J4t4pCmIjsbm7dAT5glvIgvls=
+github.com/Automattic/napi-go v0.0.0-20240423161934-e036edc07be8/go.mod h1:GCl/hI+xsctOvm9mgdowD2SGWiEL7F3XJfoseuPo2bA=
+github.com/Automattic/napi-go v0.0.0-20240425133121-e3d73f585918 h1:JhOxp3+UooIDEpyVXewDgYNYm7OxuWTqfWagHW92ICI=
+github.com/Automattic/napi-go v0.0.0-20240425133121-e3d73f585918/go.mod h1:GCl/hI+xsctOvm9mgdowD2SGWiEL7F3XJfoseuPo2bA=
+github.com/Automattic/napi-go v0.0.0-20240425133724-71a442e0b756 h1:Kxa4bkFoz4qLQP2X9j/wRW2rWbdC9YC5aV36dsDAbbc=
+github.com/Automattic/napi-go v0.0.0-20240425133724-71a442e0b756/go.mod h1:GCl/hI+xsctOvm9mgdowD2SGWiEL7F3XJfoseuPo2bA=
+github.com/Automattic/napi-go v0.0.0-20240425135151-f3f74be0ab8d h1:NVCP/JKDC6QoHVfwGC2OkUF6xPb1o1bbgMu75KKEb4M=
+github.com/Automattic/napi-go v0.0.0-20240425135151-f3f74be0ab8d/go.mod h1:GCl/hI+xsctOvm9mgdowD2SGWiEL7F3XJfoseuPo2bA=
+github.com/Automattic/napi-go v0.0.0-20240425140530-d50196624e38 h1:gBhfup+wPq6mH/Mcb0L/eZ+v767phTg1XYBJvGwOqJE=
+github.com/Automattic/napi-go v0.0.0-20240425140530-d50196624e38/go.mod h1:GCl/hI+xsctOvm9mgdowD2SGWiEL7F3XJfoseuPo2bA=

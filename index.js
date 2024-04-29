@@ -1,1 +1,3 @@
-console.log('Hello Index.js')
+const example = require("./main.node");
+
+example.hello();
